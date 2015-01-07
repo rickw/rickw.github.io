@@ -13,9 +13,9 @@ I am seeking contracts with any of those technologies or other technologies I ha
 * Strong background in large-scale Enterprise system design, development, and integration.
 * Proven experience in designing highly available and scalable infrastructure.
 * Wide experience in Internet security, technical aspects and administration of Windows and UNIX systems.
-* Large scale database architecture for SQL Server, DB2, and ORACLE
+* Large scale database architecture for SQL Server, DB2, and ORACLE.
 * Front-end interface design and implementation using JavaScript in a multi-browser environment.
-* Fast Advancement to Expert in New Technologies
+* Fast Advancement to Expert in New Technologies.
 
 [Top](#)
 
