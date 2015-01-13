@@ -9,9 +9,8 @@ I am seeking contracts with any of those technologies or other technologies I ha
 ### Technology
 
 | Swift | Objective-C / C | Cocoa / CocoaTouch |
-|:===:|:===:|:===:|
 | JavaScript / Node.js | Ruby / Rails | OCaml |
-| CloudKit / CoreData | NoSQL / SQL |
+| CloudKit / CoreData | NoSQL / SQL | Streaming |
 | Cloud Services | VoIP / Asterisk | REST / SoA |
 | Unix / Linux | OS X / iOS |
 
@@ -33,7 +32,7 @@ I am seeking contracts with any of those technologies or other technologies I ha
 
 | __iOS Apps__ | __OpenSource__ |
 | [HBOGo/MAXGo](https://itunes.apple.com/us/app/hbo-go/id429775439?mt=8) | [Swift Time](http://swiftti.me) |
-| [Pins app](https://angel.co/pins-1) | [SwiftlyReachable]() |
+| [Pins app](https://angel.co/pins-1) | [SwiftlyReachable](https://github.com/swifttime/SwiftlyReachable) |
 | [Trial Guides](https://itunes.apple.com/us/app/trial-guides/id555723807?mt=8) | __Contibuted To__ |
 | [HEAT Home Energy Audit Pro](https://itunes.apple.com/us/app/heat-home-energy-audit-pro/id537939000?mt=8) | [mogenerator](https://github.com/rentzsch/mogenerator) |
 | [IFR Markets (Thomson Reuters)](http://download.cnet.com/Thomson-Reuters-IFR-Markets/3000-2164_4-75634352.html) | [vagrant-digitalocean](https://github.com/smdahlen/vagrant-digitalocean) |
