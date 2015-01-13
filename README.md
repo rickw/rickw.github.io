@@ -1,4 +1,4 @@
-[Technology](#technology) [Experience](#experience) [Portfolio](#portfolio)
+[Technology](#technology) [Experience](#experience) [Portfolio](#portfolio) [Contact](#contact)
 
 I am an experienced software developer and architect with over twenty years’ experience, and I am passionate about simple solutions to complex problems. I have been involved for the past five years in the mobile app arena, in both native app development and the backend support stack. Some of the major projects that I have played an integral part in are: HBO Go (worked on research for a new generation of app, fixed bugs involving OpenGL effects and other bugs, assisted the team); TrialGuides (designed and built a CoreText based eBook layout engine and reader using GCD async arhitecture, implimented custom attributes for objects not available in iOS); Nook for iOS (designed and wrote an Objective-C wrapper around the Adobe RMSDK using NSOperationQueues, wrote the paging model and developed UIKit based text selection); HEAT Home Energy Audit Pro (built an Objective-C wrapper and Unit Tests for building a Windows DLL into an iOS app).
 
@@ -38,5 +38,11 @@ I am seeking contracts with any of those technologies or other technologies I ha
 | [IFR Markets (Thomson Reuters)](http://download.cnet.com/Thomson-Reuters-IFR-Markets/3000-2164_4-75634352.html) | [vagrant-digitalocean](https://github.com/smdahlen/vagrant-digitalocean) |
 | [Nook for iOS](https://itunes.apple.com/us/app/nook/id373582546?mt=8) | |
 | [Shel Silverstein](https://itunes.apple.com/us/app/shel-silversteins-animations/id336791939?mt=8) | |
+
+[Top](#)
+
+### Contact
+
+rick [at] mti [dot] io
 
 [Top](#)
