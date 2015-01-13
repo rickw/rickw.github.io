@@ -31,7 +31,7 @@ I am seeking contracts with any of those technologies or other technologies I ha
 ### Portfolio
 
 | __iOS Apps__ | __OpenSource__ |
-| [HBOGo/MAXGo](https://itunes.apple.com/us/app/hbo-go/id429775439?mt=8) | [Swift Time](http://swiftti.me) |
+| [HBOGo/MAXGo](https://itunes.apple.com/us/app/hbo-go/id429775439?mt=8) | [SwiftTime](http://swiftti.me) |
 | [Pins app](https://angel.co/pins-1) | [SwiftlyReachable](https://github.com/swifttime/SwiftlyReachable) |
 | [Trial Guides](https://itunes.apple.com/us/app/trial-guides/id555723807?mt=8) | __Contibuted To__ |
 | [HEAT Home Energy Audit Pro](https://itunes.apple.com/us/app/heat-home-energy-audit-pro/id537939000?mt=8) | [mogenerator](https://github.com/rentzsch/mogenerator) |
