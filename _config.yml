@@ -1,4 +1,5 @@
 title_tag_text: Rick Windham
 h1_tag_text: Rick Windham
+h2_tag_text: Mobile Thaumaturgy
 
 exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
