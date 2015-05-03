@@ -9,7 +9,7 @@ I am seeking contracts with any of those technologies or other technologies I ha
 ### Technology
 
 | Swift | Objective-C / C | Cocoa / CocoaTouch |
-| JavaScript / Node.js | Ruby / Rails | OCaml |
+| JavaScript / Node.js | Ruby / Rails | Go |
 | CloudKit / CoreData | NoSQL / SQL | Streaming |
 | Cloud Services | VoIP / Asterisk | REST / SoA |
 | Unix / Linux | OS X / iOS |
@@ -43,6 +43,6 @@ I am seeking contracts with any of those technologies or other technologies I ha
 
 ### Contact
 
-rick [at] mti [dot] io
+rick [at] mti [dot] io - [GitHub](https://github.com/rickw/) - [LinkedIn](https://linkedin.com/rickwindham/)
 
 [Top](#)
