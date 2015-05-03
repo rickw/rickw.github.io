@@ -43,6 +43,6 @@ I am seeking contracts with any of those technologies or other technologies I ha
 
 ### Contact
 
-rick [at] mti [dot] io - [GitHub](https://github.com/rickw/) - [LinkedIn](https://linkedin.com/rickwindham/)
+rick [at] mti [dot] io - [GitHub](https://github.com/rickw/) - [LinkedIn](https://linkedin.com/in/rickwindham/)
 
 [Top](#)
