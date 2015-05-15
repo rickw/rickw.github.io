@@ -18,7 +18,6 @@ I am seeking contracts with any of those technologies or other technologies I ha
 
 ### Experience
 
-* Twenty plus years of professional experience in the computer industry.
 * Strong background in large-scale Enterprise system design, development, and integration.
 * Proven experience in designing highly available and scalable infrastructure.
 * Wide experience in Internet security, technical aspects and administration of Windows and UNIX systems.
