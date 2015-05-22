@@ -9,9 +9,9 @@ I am seeking contracts with any of those technologies or other technologies I ha
 ### Technology
 
 | Swift | Objective-C / C | Cocoa / CocoaTouch |
-| JavaScript / Node.js | Ruby / Rails | Go |
-| CloudKit / CoreData | NoSQL / SQL | Streaming |
-| Cloud Services | VoIP / Asterisk | REST / SoA |
+| CloudKit / CoreData | Cloud Services | Go |
+| JavaScript / Node | NoSQL / SQL | Streaming A/V |
+| REST / SoA | VoIP / Asterisk |  |
 | Unix / Linux | OS X / iOS |
 
 [Top](#)
@@ -36,7 +36,6 @@ I am seeking contracts with any of those technologies or other technologies I ha
 | [HEAT Home Energy Audit Pro](https://itunes.apple.com/us/app/heat-home-energy-audit-pro/id537939000?mt=8) | [mogenerator](https://github.com/rentzsch/mogenerator) |
 | [IFR Markets (Thomson Reuters)](http://download.cnet.com/Thomson-Reuters-IFR-Markets/3000-2164_4-75634352.html) | [vagrant-digitalocean](https://github.com/smdahlen/vagrant-digitalocean) |
 | [Nook for iOS](https://itunes.apple.com/us/app/nook/id373582546?mt=8) | |
-| [Shel Silverstein](https://itunes.apple.com/us/app/shel-silversteins-animations/id336791939?mt=8) | |
 
 [Top](#)
 
